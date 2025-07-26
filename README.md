@@ -1,80 +1,53 @@
-
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00ffff">Imran Farhat</span></h1>
-<h3 align="center">🧠 AI Explorer | ⚙️ ML Architect | 💻 Python Enthusiast</h3>
-
----
-
-### ✨ Who Am I?
-
-```python
-class AboutMe:
-    name = "Imran Farhat"
-    roles = ["AI Developer", "ML Engineer", "Problem Solver"]
-    learning = ["Advanced ML", "Computer Vision", "YOLO models"]
-    email = "imranfarhat442@gmail.com"
-
-    def fun_fact():
-        return "I break stuff to fix them better 🔧"
-```
-
-- 🔍 Currently experimenting with **YOLO & PyTorch**
-- 🤝 Open for collaborations in **AI-driven projects**
-- ⚡ Hobbies: Automating things that don’t need automation 😄
-- 🧠 I build & learn in public — every commit counts
+<h1 align="center">Hi 👋, I'm Imran Farhat</h1>
+<h3 align="center">💡 AI Passionate | 🤖 Machine Learning | 🐍 Python Programming</h3>
 
 ---
 
-### 🌐 Connect with Me
+### 🔍 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/m-i-imran-farhat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:imranfarhat442@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/1397234591093358613" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+- 🔭 I’m currently focused on **Artificial Intelligence & Machine Learning**
+- 💬 I love working with **Python, YOLO, and Computer Vision**
+- 👨‍🎓 Learning and exploring advanced ML frameworks like **TensorFlow, PyTorch**
+- 🤝 I’m open to **collaboration on AI/ML projects and research**
+- 📫 Reach me at: **imranfarhat442@gmail.com**
+- 🚀 Fun Fact: *I debug my life like I debug code – one breakpoint at a time.*
 
 ---
 
-### 🛠️ Tech Stack Toolbox
+### 🌐 Connect With Me
 
-| Tech | Stack |
-|------|-------|
-| 🐍 Python | 🎯 AI, ML, TensorFlow, PyTorch |
-| 🔍 Computer Vision | OpenCV, YOLO |
-| 📊 Data | Pandas, NumPy |
-| 🧪 Tools | GitHub, Arduino |
-| 🌐 Web | HTML5, CSS3 |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-i-imran-farhat)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1397234591093358613)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranfarhat442@gmail.com)
 
 ---
 
-### 📊 GitHub Overview
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imran-farhat&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran-farhat&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
-### 🔮 What I'm Thinking
-
-> “Creating models is easy. Training the mind to keep learning is the real challenge.”
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Imran-farhat/Imran-farhat/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
-### ⚙️ Projects Coming Soon
+### 📊 GitHub Stats
 
-- 🚀 Real-time Object Detection with YOLOv8
-- 📡 AI for Sensor-Based Agriculture Automation
-- 📦 Python CLI tool for batch image annotation
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imran-farhat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran-farhat&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Quote of the Day
+
+> "Code like there's no bug, learn like there's no limit."
+
+---
+
